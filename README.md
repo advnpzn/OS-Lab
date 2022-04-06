@@ -1,5 +1,7 @@
 My OS-Lab programs for the record.
 
+Note : This is incomplete since my lab exams finished and I'm too lazy to update it any further.
+
 ## Note
 * Everything tested working in a Linux Environment compiled with `GNU gcc 11.1.0` compiler.
 ```
